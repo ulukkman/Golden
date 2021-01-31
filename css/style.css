@@ -160,3 +160,8 @@ h1 {
 .works img:last-child {
 	float: right;
 }
+
+footer .container > * {
+	border: 1px solid red;
+}
+
